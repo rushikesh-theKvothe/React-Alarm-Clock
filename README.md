@@ -2,6 +2,11 @@
 
 Alarm Clock Application to show how the react redux application works and how the data flows in application.
 
+# Steps to run applicaiton : 
+1) clone this repo or download this folder in some folder
+2) run following command : npm install
+3) run following command :  npm start
+
 # Application Structure : 
  actions : All redux action creators and action type constants are here
  reducers : Alarm reducer is here
