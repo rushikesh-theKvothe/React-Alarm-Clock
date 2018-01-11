@@ -6,6 +6,7 @@ Alarm Clock Application to show how the react redux application works and how th
 1) clone this repo or download this folder in some folder
 2) run following commands : 
    npm install
+   
    npm start
 
 # Application Structure : 
